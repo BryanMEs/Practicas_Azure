@@ -1,0 +1,1 @@
+ az deployment group create --name mi-primera-plantilla --resource-group sesion practica-16 --template-file azuredeploy.json
